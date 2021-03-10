@@ -1,10 +1,8 @@
 About
 ============
-This module is useful to import data from CSV/excel file.
+If you have large records of users in CSV or Excel then using this Odoo app you can import them in Odoo with a single click. This module is useful to import users from CSV/Excel file quickly.
 
-User Guide
-============
-Blog: https://www.softhealer.com/blog/odoo-2/post/all-in-one-import-partner-product-sales-purchase-accounts-inventory-bom-crm-project-188
+
 
 Python Packages
 ===============
@@ -32,6 +30,13 @@ OR
 1.sudo apt-get install python3-xlrd
 
 2.sudo apt-get install python3-xlwt
+
+
+
+User Guide
+============
+Blog: https://www.softhealer.com/blog/odoo-2/post/import-users-from-csv-excel-file-526
+Product: /shop/product/import-users-from-csv-excel-file-533
 
 Installation
 ============
